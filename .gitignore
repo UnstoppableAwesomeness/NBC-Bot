@@ -1,0 +1,24 @@
+# Python Environments/Compiler Files
+env/
+__pycache__
+*.pyc
+
+# IDE Files
+.vscode/
+
+# Config File (we want to hide our token)
+# Example file will be added in the future
+config.py
+
+# Bot Logs
+logs/
+*.log
+
+# Personal Notes
+Archive/
+TODO
+
+# Experimental
+labeler.yml
+
+# Deprecated cogs/features
