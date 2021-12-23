@@ -112,7 +112,7 @@ class NBCBoterator(commands.Bot):
         try:
             self.loop.run_until_complete(
                 self.start(
-                    config.APP_TOKEN
+                    config.BOT_TOKEN
                 )
             )
         except KeyboardInterrupt:
