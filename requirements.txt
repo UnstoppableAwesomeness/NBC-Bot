@@ -11,7 +11,7 @@ idna==3.1
 idna-ssl==1.1.0
 import-expression==1.1.4
 importlib-metadata==3.5.0
-jishaku==1.20.0.220
+jishaku==2.5.0
 mccabe==0.6.1
 multidict==4.7.6
 psutil==5.8.0
