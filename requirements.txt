@@ -6,7 +6,7 @@ braceexpand==0.1.7
 chardet==3.0.4
 discord.py==1.7.2
 flake8==3.9.1
-humanize==3.13.1
+humanize==4.2.0
 idna==3.1
 idna-ssl==1.1.0
 import-expression==1.1.4
