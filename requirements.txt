@@ -20,5 +20,5 @@ pyflakes==2.3.1
 six==1.16.0
 typing-extensions==3.7.4.3
 websockets==6.0
-yarl==1.6.3
+yarl==1.8.1
 zipp==3.4.0
