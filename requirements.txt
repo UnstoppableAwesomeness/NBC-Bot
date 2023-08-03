@@ -16,7 +16,7 @@ mccabe==0.6.1
 multidict==4.7.6
 psutil==5.8.0
 pycodestyle==2.7.0
-pyflakes==2.3.1
+pyflakes==3.1.0
 six==1.16.0
 typing-extensions==3.7.4.3
 websockets==6.0
