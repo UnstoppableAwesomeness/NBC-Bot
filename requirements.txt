@@ -9,7 +9,7 @@ flake8==3.9.1
 humanize==3.13.1
 idna==3.1
 idna-ssl==1.1.0
-import-expression==1.1.4
+import-expression==2.0.0
 importlib-metadata==3.5.0
 jishaku==1.20.0.220
 mccabe==0.6.1
